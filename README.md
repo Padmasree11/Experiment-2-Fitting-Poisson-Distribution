@@ -77,7 +77,7 @@ else:
 
 ```
 
-# collab link
+# collab link:
 
 https://colab.research.google.com/drive/15yeEUD1jdrJK2We1t5TmgWE9tXff9Qjk?usp=sharing
 
